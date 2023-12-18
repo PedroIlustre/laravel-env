@@ -1,0 +1,17 @@
+{
+    "name": "root/www",
+    "description": ".",
+    "require": {
+        "laravel/laravel": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Root\\Www\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pedro ilustre"
+        }
+    ]
+}
